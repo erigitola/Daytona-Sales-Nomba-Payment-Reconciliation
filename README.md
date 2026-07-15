@@ -1,5 +1,5 @@
-DAYTONA PEOPLES PHARMACY
-Sales & Nomba Payment Reconciliation Report
+**DAYTONA PEOPLES PHARMACY**
+**Sales & Nomba Payment Reconciliation Report**
 
 Report Title: Sales Report vs. Nomba Payment Reconciliation
 
@@ -104,4 +104,24 @@ A total of 21 transactions were successfully matched between the Sales Report an
 Matching payment amount
 Matching payment method
 Transaction timestamps within one hour
+
+Sales Report
+        │
+        ▼
+Data Cleaning
+        │
+        ▼
+Nomba Report
+        │
+        ▼
+Standardize Columns
+        │
+        ▼
+Convert Date & Amount
+        │
+        ▼
+Match Transactions
+        │
+        ▼
+Generate Reports
 
